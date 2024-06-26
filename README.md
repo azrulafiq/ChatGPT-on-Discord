@@ -6,7 +6,7 @@ This is a simple Discord bot that uses OpenAI's GPT-3 API to generate responses 
 
 1. Install Node.js (version 14 or higher) on your machine if it is not already installed.
 
-2. Clone this repository to your local machine using `git clone https://github.com/your-username/your-repo.git`.
+2. Clone this repository to your local machine using `git clone https://github.com/azrulafiq/ChatGPT-on-Discord.git`.
 
 3. Navigate to the project directory using the command line.
 
